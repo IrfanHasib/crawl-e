@@ -1,0 +1,9 @@
+# cheerio-tableparser does not have a @types repo, hence i created it myself locally
+!node_modules/
+node_modules/*
+!node_modules/@types
+node_modules/@types/*
+!node_modules/@types/cheerio-tableparser
+examples
+output
+cache
